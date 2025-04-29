@@ -14,7 +14,7 @@ I'm a passionate Python developer from Germany with a keen interest in cybersecu
 - 📫 How to reach me **kevin@wilck.io**  
   
 
-- 📄 Know about my experiences [https://wilck.io](https://www.wilck.io)  
+- 📄 Know about my experiences [www.wilck.io](https://wilck.io)  
   
 
 - ⚡ Fun fact **Bearded people are cooler!**  
